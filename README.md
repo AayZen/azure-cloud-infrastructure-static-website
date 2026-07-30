@@ -152,36 +152,35 @@ Error Document:
 
 ## Home Page
 
-<img width="1920" height="1747" alt="image" src="https://github.com/user-attachments/assets/3fb4b2fa-e574-4778-a16c-5d3679e005bd" />
-
+[<img width="1920" height="1747" alt="image" src="https://github.com/user-attachments/assets/3fb4b2fa-e574-4778-a16c-5d3679e005bd" />
+](https://aayancloudstorage01.z29.web.core.windows.net/index.html)
 
 ---
 
 ## About Page
 
-<img width="1920" height="1452" alt="image" src="https://github.com/user-attachments/assets/f307abdf-54d7-45b1-ae4b-d4c1d52ab2de" />
-
+[<img width="1920" height="1452" alt="image" src="https://github.com/user-attachments/assets/f307abdf-54d7-45b1-ae4b-d4c1d52ab2de" />
+](https://aayancloudstorage01.z29.web.core.windows.net/about.html)
 
 ---
 
 ## Services
 
-<img width="1920" height="1527" alt="image" src="https://github.com/user-attachments/assets/e56a640e-921d-43c2-9b85-ccb1e36c13dc" />
+[<img width="1920" height="1527" alt="image" src="https://github.com/user-attachments/assets/e56a640e-921d-43c2-9b85-ccb1e36c13dc" />](https://aayancloudstorage01.z29.web.core.windows.net/services.html)
 
 
 ---
 
 ## Features
 
-<img width="1920" height="1363" alt="image" src="https://github.com/user-attachments/assets/9a99e5c9-d66e-49ed-b454-1f6011f04eb4" />
+[<img width="1920" height="1363" alt="image" src="https://github.com/user-attachments/assets/9a99e5c9-d66e-49ed-b454-1f6011f04eb4" />](https://aayancloudstorage01.z29.web.core.windows.net/features.html)
 
 
 ---
 
 ## Gallery
 
-<img width="1920" height="1701" alt="image" src="https://github.com/user-attachments/assets/43e54ee4-4b3e-4446-bf2d-b341e2891087" />
-
+[<img width="1920" height="1701" alt="image" src="https://github.com/user-attachments/assets/43e54ee4-4b3e-4446-bf2d-b341e2891087" />](https://aayancloudstorage01.z29.web.core.windows.net/gallery.html)
 
 ---
 
