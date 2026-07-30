@@ -1,220 +1,240 @@
+<div align="center">
+
 # ☁️ Azure Cloud Infrastructure & Services
 
-A modern, responsive multi-page website showcasing Microsoft Azure cloud infrastructure concepts and services. The project is deployed using **Azure Storage Static Website Hosting**, demonstrating cloud deployment, storage management, and static website hosting on Microsoft Azure.
+### A Modern Multi-Page Azure Cloud Infrastructure Website
+
+Responsive cloud portfolio showcasing Azure networking, storage, identity, monitoring, and deployment using **Azure Storage Static Website Hosting**.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
 
 ---
 
 ## 🌐 Live Demo
 
-**Azure Static Website**
-
+🔗 **Website:**  
 https://aayancloudstorage01.z29.web.core.windows.net/
 
 ---
 
-## 📖 Project Overview
+# 📖 About
 
-This project demonstrates how to deploy a static website on Microsoft Azure using Azure Storage Accounts and Blob Storage.
+This project is a modern responsive website built to demonstrate the deployment of a static website using **Microsoft Azure Storage Account**.
 
-The website introduces Azure cloud services, networking, storage, monitoring, identity management, and deployment practices through a clean and responsive user interface.
+The website highlights Azure Cloud concepts including:
 
----
-
-## ✨ Features
-
-- Responsive multi-page website
-- Modern UI/UX design
-- Azure-themed interface
-- Static website hosting on Azure
-- Fast loading performance
-- Mobile-friendly layout
-- Clean navigation
-- Interactive components using JavaScript
-
----
-
-## 📄 Pages
-
-- Home
-- About
-- Services
-- Features
-- Gallery
-- Contact
-
----
-
-## 🛠️ Technologies Used
-
-### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-
-### Cloud Platform
-
-- Microsoft Azure
-- Azure Storage Account
-- Azure Blob Storage
-- Azure Static Website Hosting
-
----
-
-## ☁️ Azure Services Used
-
-- Azure Storage Account
-- Blob Storage
-- Static Website Hosting
-- Azure Resource Group
 - Azure Virtual Network
+- Azure Storage
+- Azure Blob Storage
+- Cloud Security
+- Azure Services
+- Azure Monitoring
+- Cloud Deployment
+
+The project was deployed using **Azure Blob Storage Static Website Hosting**.
 
 ---
 
-## 📂 Project Structure
+# ✨ Features
 
-```
+- 🎨 Modern UI Design
+- 📱 Fully Responsive
+- ⚡ Fast Loading
+- ☁ Azure Static Website Hosting
+- 🌙 Dark Mode Toggle
+- 🎯 Smooth Animations
+- 🖼 Gallery Section
+- 📄 Multiple Pages
+- 📬 Contact Page
+- 💻 Clean Code Structure
+
+---
+
+# 🛠 Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| HTML5 | Structure |
+| CSS3 | Styling |
+| JavaScript | Interactivity |
+| Azure Storage | Static Website Hosting |
+| Azure Blob Storage | Website Deployment |
+
+---
+
+# 📂 Project Structure
+
+```text
 Azure-Cloud-Infrastructure/
-
+│
 ├── index.html
 ├── about.html
-├── contact.html
 ├── services.html
 ├── features.html
 ├── gallery.html
-├── favicon.ico
-
+├── contact.html
+│
 ├── style.css
 ├── responsive.css
 ├── script.js
-
+│
+├── favicon.ico
 ├── azure-hero.svg
 ├── cloud-mark.svg
-
 ├── placeholder-1.png
 ├── placeholder-2.png
-
+│
 └── README.md
 ```
 
 ---
 
-## 🚀 Deployment Steps
+# 🚀 Azure Deployment
 
-### 1. Create a Resource Group
+This website is hosted using:
 
-Create a new Azure Resource Group.
+- Azure Storage Account
+- Blob Storage
+- Static Website Hosting
+- Azure Blob Container (`$web`)
 
-### 2. Create a Virtual Network
+Deployment Steps:
 
-Configure an Azure Virtual Network (VNet).
-
-### 3. Create a Storage Account
-
-- Standard Performance
-- LRS Replication
-- General Purpose v2
-
-### 4. Enable Static Website
-
-Navigate to
+1. Create Azure Storage Account
+2. Enable Static Website Hosting
+3. Set:
 
 ```
-Storage Account
-    → Data Management
-        → Static Website
-```
-
-Enable Static Website
-
-Configure:
-
-```
-Index document:
+Index Document:
 index.html
 
-Error document:
+Error Document:
 404.html
 ```
 
-### 5. Upload Website Files
+4. Upload all website files into the **$web** container.
 
-Upload all project files into the **$web** container.
-
-### 6. Access Website
-
-Open the generated Static Website Endpoint.
+5. Open the generated endpoint.
 
 ---
 
-## 🎯 Learning Outcomes
+# 📷 Screenshots
 
-This project helped me understand:
+## Home Page
 
-- Azure Storage Accounts
+> Add your homepage screenshot here.
+
+```text
+screenshots/home.png
+```
+
+---
+
+## About Page
+
+```text
+screenshots/about.png
+```
+
+---
+
+## Services
+
+```text
+screenshots/services.png
+```
+
+---
+
+## Features
+
+```text
+screenshots/features.png
+```
+
+---
+
+## Gallery
+
+```text
+screenshots/gallery.png
+```
+
+---
+
+# 📈 Azure Services Demonstrated
+
+- Azure Virtual Network
+- Azure Storage Account
 - Azure Blob Storage
-- Azure Static Website Hosting
-- Resource Groups
-- Virtual Networks
-- Static Website Deployment
-- Cloud Infrastructure Basics
-- Azure Portal
-- Storage Management
+- Static Website Hosting
+- Cloud Security
+- Cloud Monitoring
+- Azure Infrastructure
 
 ---
 
-## 📸 Screenshots
+# 🎯 Learning Outcomes
 
-### Home Page
+✔ Azure Storage Account
 
-(Add screenshot here)
+✔ Azure Blob Storage
 
-### Azure Portal
+✔ Static Website Hosting
 
-(Add screenshot here)
+✔ Azure Portal
 
-### Static Website Settings
+✔ Azure Resource Groups
 
-(Add screenshot here)
+✔ Cloud Deployment
+
+✔ Responsive Web Design
 
 ---
 
-## 📈 Future Improvements
+# 📌 Future Improvements
 
-- Custom 404 page
-- Contact form with Azure Functions
-- Azure CDN integration
+- Azure CDN
 - Azure Front Door
+- Azure Functions
+- Contact Form Backend
 - Custom Domain
-- HTTPS with Azure CDN
+- HTTPS Configuration
 - CI/CD using GitHub Actions
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
-**Aayan Kumar**
+## Aayan Kumar
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering (Cloud Computing)
 
-Cloud Computing Specialization
-
----
-
-## 📫 Connect With Me
-
-**GitHub**
-
-https://github.com/AayZen
-
-**LinkedIn**
-
-(Add your LinkedIn Profile)
+- GitHub: https://github.com/AayZen
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- Portfolio: Coming Soon
 
 ---
 
-## 📄 License
+# ⭐ Support
 
-This project is developed for educational and learning purposes.
+If you found this project useful,
 
-© 2026 Aayan Kumar. All rights reserved.
+⭐ Star this repository
+
+🍴 Fork it
+
+🛠 Contribute
+
+---
+
+<div align="center">
+
+### Made with ❤️ using Microsoft Azure
+
+</div>
