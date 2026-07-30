@@ -96,6 +96,9 @@ Azure-Cloud-Infrastructure/
 
 # 🚀 Azure Deployment
 
+<img width="1536" height="1024" alt="Azure Static Website Deployment Architecture" src="https://github.com/user-attachments/assets/0fa8af93-bb52-45bc-914c-7989b18e3d33" />
+
+
 This website is hosted using:
 
 - Azure Storage Account
@@ -128,9 +131,23 @@ Error Document:
 <img width="1280" height="888" alt="image" src="https://github.com/user-attachments/assets/d07b18e1-46bc-45c4-a23c-29e82babd03d" />
 
 
----
----
+## Virtual networks
 
+<img width="1280" height="885" alt="image" src="https://github.com/user-attachments/assets/efc2b862-4fa6-42c9-b102-b6ee629a2bc0" />
+
+
+## Storage Acount
+
+<img width="1281" height="873" alt="image" src="https://github.com/user-attachments/assets/e7181d00-2887-4b2d-9e10-6c417f532a70" />
+
+## Blob Storage
+<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/80d703f2-f639-411f-8af8-0fc05ce37d79" />
+
+
+## Enabling static websites on the blob Storage
+<img width="1280" height="878" alt="image" src="https://github.com/user-attachments/assets/ff8a8412-6850-41fd-983c-fffa1bb63512" />
+
+---
 # 📷 Screenshots of ststic Websire :
 
 ## Home Page
