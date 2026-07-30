@@ -138,7 +138,8 @@ screenshots/home.png
 ## About Page
 
 ```text
-screenshots/about.png
+<img width="1920" height="1747" alt="image" src="https://github.com/user-attachments/assets/8c1facda-ad1e-460b-9e38-f3d9427354fc" />
+
 ```
 
 ---
