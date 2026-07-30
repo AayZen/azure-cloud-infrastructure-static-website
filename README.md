@@ -216,7 +216,7 @@ screenshots/gallery.png
 B.Tech Computer Science Engineering (Cloud Computing)
 
 - GitHub: https://github.com/AayZen
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/aayzen/
 - Portfolio: Coming Soon
 
 ---
