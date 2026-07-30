@@ -122,8 +122,16 @@ Error Document:
 5. Open the generated endpoint.
 
 ---
+# 📷 Screenshots of Azure project steps: 
+## Resource groups
 
-# 📷 Screenshots
+<img width="1280" height="888" alt="image" src="https://github.com/user-attachments/assets/d07b18e1-46bc-45c4-a23c-29e82babd03d" />
+
+
+---
+---
+
+# 📷 Screenshots of ststic Websire :
 
 ## Home Page
 
