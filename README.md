@@ -127,44 +127,36 @@ Error Document:
 
 ## Home Page
 
-> Add your homepage screenshot here.
+<img width="1920" height="1747" alt="image" src="https://github.com/user-attachments/assets/3fb4b2fa-e574-4778-a16c-5d3679e005bd" />
 
-```text
-screenshots/home.png
-```
 
 ---
 
 ## About Page
 
-```text
-<img width="1920" height="1747" alt="image" src="https://github.com/user-attachments/assets/8c1facda-ad1e-460b-9e38-f3d9427354fc" />
+<img width="1920" height="1452" alt="image" src="https://github.com/user-attachments/assets/f307abdf-54d7-45b1-ae4b-d4c1d52ab2de" />
 
-```
 
 ---
 
 ## Services
 
-```text
-screenshots/services.png
-```
+<img width="1920" height="1527" alt="image" src="https://github.com/user-attachments/assets/e56a640e-921d-43c2-9b85-ccb1e36c13dc" />
+
 
 ---
 
 ## Features
 
-```text
-screenshots/features.png
-```
+<img width="1920" height="1363" alt="image" src="https://github.com/user-attachments/assets/9a99e5c9-d66e-49ed-b454-1f6011f04eb4" />
+
 
 ---
 
 ## Gallery
 
-```text
-screenshots/gallery.png
-```
+<img width="1920" height="1701" alt="image" src="https://github.com/user-attachments/assets/43e54ee4-4b3e-4446-bf2d-b341e2891087" />
+
 
 ---
 
